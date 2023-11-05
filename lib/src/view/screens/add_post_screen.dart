@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_posts_app/core/colors/app_color.dart';
 import 'package:get/get.dart';
 import '../../controller/service.dart';
 import 'package:google_fonts/google_fonts.dart';

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_posts_app/core/colors/app_color.dart';
 import 'package:flutter_posts_app/src/view/screens/add_post_screen.dart';
 import 'package:flutter_posts_app/src/view/screens/sidebar.dart';
 import 'package:get/get.dart';
